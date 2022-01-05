@@ -7,3 +7,21 @@ h1{
 .orange-color{
     color: orange
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 20px 20px;
+    padding-left: 6%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    
+}
+.back-img{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
