@@ -28,6 +28,17 @@ section{
 }
 .back-img{
     background-image: url("images/top-banner.png");
-    background-repeat: no-repeat;
-    
+    background-repeat: no-repeat; 
+}
+h2{
+    font-size: 40px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png) ;
+    background-repeat: no-repeat; 
+    background-position: right;
+    background-position-y: 300px;
+    padding: 10px 10px;
+}
+
 }
